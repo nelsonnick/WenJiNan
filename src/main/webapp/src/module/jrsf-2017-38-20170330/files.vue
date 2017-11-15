@@ -7,8 +7,8 @@
 </template>
 <script>
   import axios from 'axios'
-  import fileTitle from '../../components/file_title-2.vue'
-  import fileEnd from '../../components/file_end.vue'
+  import fileTitle from '../../components/FilePart/FileTitle2.vue'
+  import fileEnd from '../../components/FilePart/FileEnd.vue'
   import fileContent from './file.vue'
   export default {
     name: 'files',

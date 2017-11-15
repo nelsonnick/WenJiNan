@@ -123,5 +123,4 @@
     font-size: 1rem;
     text-align: right;
   }
-
 </style>
